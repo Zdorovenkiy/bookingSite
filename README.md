@@ -1,2 +1,6 @@
 # bookingSite
-First project on React.js
+Run Server
+Folder project_1 -> npm run server
+
+Run dev
+Folder frontend -> npm run start
